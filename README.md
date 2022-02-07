@@ -1,1 +1,1 @@
-# az-solutions-rchitect
+# az-solutions-architect
